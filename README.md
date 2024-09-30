@@ -1,5 +1,6 @@
 ## Hi there 👋
-## I love texas from arknights
+## I love texas from arknights🐺
+
 
 <!--
 **ardhikaaa/ardhikaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
