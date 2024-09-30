@@ -1,6 +1,5 @@
 ## Hi there 👋
-## I love Texas from arknights🐺
-## I need Texas Alter now!!!
+## i'm currently studying in SMK INFORMATIKA PESAT
 
 
 <!--
