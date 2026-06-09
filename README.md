@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hello world! i'm Ardhika Raditya
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjk1NTRzOWZ4MGJsaGJoZTk2NHV6djV2aW9ocmwxNnV1MzJxMDJ3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0xDWvI2hmQVoTUyi9/giphy.gif" width="300"/>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/radityaardhika)
